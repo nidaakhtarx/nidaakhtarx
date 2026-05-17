@@ -81,6 +81,10 @@
 
 ###
 
+<h3 align="left">Streaks:</h3>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/nidaakhtarx/nidaakhtarx/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/nidaakhtarx/nidaakhtarx/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -94,16 +98,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nidaakhtarx/nidaakhtarx/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nidaakhtarx/nidaakhtarx/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nidaakhtarx/nidaakhtarx/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/nidaakhtarx/nidaakhtarx/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nidaakhtarx.nidaakhtarx&"  />
 </div>
-
+###
+###
 ###
